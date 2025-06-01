@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+matplotlib
+pandas
+pytest
+lxml
+tabulate
