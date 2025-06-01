@@ -1,4 +1,0 @@
-numpy
-numba
-pillow
-line_profiler
